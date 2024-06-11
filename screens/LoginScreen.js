@@ -11,7 +11,7 @@ const LoginScreen = ({ navigation }) => {
   };
   return (
     <View style={styles.container}>
-      <Logo source={require('../assets/logo-appescolar1.png')} />
+      <Logo source={require('../assets/logo1.png')} />
       <Text style={styles.title}>Login</Text>
       <InputField
         placeholder="Email"
